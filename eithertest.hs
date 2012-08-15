@@ -1,0 +1,1 @@
+data MyState = Taken | Free
